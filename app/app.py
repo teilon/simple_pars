@@ -1,0 +1,1 @@
+host = "https://health-diet.ru/table_calorie/?utm_source=leftMenu&utm_medium=table_calorie"
