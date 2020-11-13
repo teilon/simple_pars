@@ -6,3 +6,7 @@
 **/*.txt
 !**/requirements.txt
 **/docker-compose.yml
+
+**/*.json
+**/*.html
+**/*.csv
