@@ -134,8 +134,3 @@ for category_name, category_href in all_categories.items():
 
     print(f"осталось итераций: {iteration_count}")
     sleep(randrange(2, 4))
-
-
-
-
-
